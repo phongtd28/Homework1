@@ -2,10 +2,11 @@
 .nav-links li {
     list-style: none;
 }
-.nav-links li a{
+a{
 text-decoration: none;
 
 }
 .banner{
     background-image: url("assets/banner.jpg");
+    background-size: cover;
 }
