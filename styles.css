@@ -1,0 +1,11 @@
+
+.nav-links li {
+    list-style: none;
+}
+.nav-links li a{
+text-decoration: none;
+
+}
+.banner{
+    background-image: url("assets/banner.jpg");
+}
